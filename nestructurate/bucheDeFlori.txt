@@ -1,0 +1,3 @@
+Ai un buchet de flori. Toate sunt trandafiri în afară de două. Toate sunt margarete în afară de două. Toate sunt lalele în afară de două. Câte flori sunt în buchet?
+
+R: 3. (sistem matematic, easy pff)
