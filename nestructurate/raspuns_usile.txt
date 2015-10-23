@@ -1,2 +1,0 @@
-Răspuns: Iniţial, şansele de a alege uşa corectă sunt de 1/3. După deschiderea uşii ce ascunde capra, şansele că prima decizie să fie corectă încă sunt de 1/3, deci ar trebui să îţi modifici decizia fiindcă acum în spatele celei de-a treia porţi există 2/3 şanse să se afle maşină. 
-Şansele să fi ghicit corect de prima oară sunt de 1/3 şi de a fi ghicit greşit sunt de 2/3. Dacă îţi schimbi decizia şi ai avut dreptate la prima decizie, şansele să pierzi sunt 1/3. Dacă ai greşit prima oară, şansele să câştigi sunt 2/3.
