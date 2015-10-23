@@ -1,0 +1,20 @@
+Se dau douã camere, trei becuri cu incandescenþã ºi trei întrerupãtoare. 
+
+Becurile se aflã într-o camerã, iar întrerupãtoarele în cealaltã camerã. 
+
+Îþi vei petrece 5 minute în camera întrerupãtoarelor ºi apoi vei trece în camera becurilor.
+ 
+Cele douã camere nu comunicã vizual ºi nu ai voie sã te mai întorci în camera întrerupãtoarelor.
+ 
+Poþi apãsa întrerupãtoarele ori de câte ori doreºti ºi în ce ordine crezi de cuviinþã. 
+
+Problemã: Fiecãrui bec îi corespunde câte un întrerupãtor. Numeºte corect cele trei asocieri bec-întrerupãtor!
+
+
+Solutie: Un întrerupãtor nu va fi acþionat deloc. Acestuia îi va corespunde becul stins ºi rece.
+
+         Al doilea întrerupãtor va fi pus în poziþia "deschis". 
+
+         În mod firesc, îi va corespunde becul aprins. Al treilea întrerupãtor va fi plasat în poziþia "deschis" pânã la limita celor cinci minute. Va fi închis înainte de trecerea în camera becurilor. Acesta va fi corespondentul becului stins ºi cald.
+
+
