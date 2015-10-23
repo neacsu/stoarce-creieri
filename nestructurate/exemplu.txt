@@ -1,0 +1,3 @@
+Ai o masă rotundă și doi jucători. Fiecare jucător pune pe rând câte o monedă pe masă. Monedele nu se pot suprapune și nu pot depăși marginea mesei. Pierde primul jucător care nu mai poate pune o monedă pe masă.
+
+Întrebare: există o strategie câștigătoare pentru vreunul din jucători? Dacă da, care? Dacă nu, de ce?
