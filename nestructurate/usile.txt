@@ -1,0 +1,7 @@
+ Ai in fata trei usi inchise. In spatele a doua dintre ele este cate o capra, cealalta
+ ascunde o masina de lux. Dupa ce alegi o usa, ti se va deschide una din cele doua
+ ramase - cea care ascunde o capra. Ti se da posibilitatea sa ramai la usa pe
+ care ai ales-o sau sa schimbi si sa alegi alta usa. Ce faci? De ce?
+
+Raspuns: Initial, sansele de a alege usa corecta sunt de 1/3. Dupa deschiderea usii ce ascunde capra, sansele ca prima decizie sa fie corecta inca sunt de 1/3, deci ar trebui sa iti modifici decizia fiindca acum in spatele celei de-a treia porti exista 2/3 sanse sa se afle masina. 
+Sansele sa fi ghicit corect de prima oara sunt de 1/3 si de a fi ghicit gresit sunt de 2/3. Daca iti schimbi decizia si ai avut dreptate la prima decizie, sansele sa pierzi sunt 1/3. Daca ai gresit prima oara, sansele sa castigi sunt 2/3. 
