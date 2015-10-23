@@ -1,0 +1,4 @@
+Ce este special la numărul următor?
+5,298,476,310
+
+R: Conține toate cifrele de la 0 la 9 în ordine alfabetică.

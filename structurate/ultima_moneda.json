@@ -1,0 +1,6 @@
+{
+	"titlu": "Ultima monedă",
+	"enunt": "Ai o masă rotundă și doi jucători. Fiecare jucător pune pe rând câte o monedă pe masă. Monedele nu se pot suprapune și nu pot depăși marginea mesei. Pierde primul jucător care nu mai poate pune o monedă pe masă. Există o strategie câștigătoare pentru vreunul din jucători? Dacă da, care? Dacă nu, de ce?",
+	"solutie": "Primul jucător câștigă. Prima oară pune moneda exact în mijlocul mesei. Oriunde ar pune apoi celălalt jucător modeda lui, primul jucător poate așeze o monedă simetric față de centru - poziția este garantat liberă. La un moment dat, jucătorul 2 nu va mai avea unde să pună o monedă și va pierde.",
+	"dificultate": 3
+}

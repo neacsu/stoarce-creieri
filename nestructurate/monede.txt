@@ -1,0 +1,4 @@
+Ai 10 grupulețe de monede. 9 grupulețe au monede de 10 grame, iar un grupuleț are monede de 11 grame.
+Cum afli care este grupulețul diferit dintr-o singură cântărire?
+
+R: Pe cantar vei pune o monedă din primul grup, două din al doilea, trei din al treilea etc. Greutatea totală - 10*1 - 10*2 - ... - 10*10 = Rest. Restul ne va spune din care grupă provine moneda.

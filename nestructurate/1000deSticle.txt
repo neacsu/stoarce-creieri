@@ -1,0 +1,19 @@
+Un împărat are 1000 de sticle de vin. în timpul unei petreceri cineva îl amenință că una din ele este otrăvită. împăratul are la dispoziție 10 străjeri pe care să-i "sacrifice" ca să afle care este sticla. Cum procedează? (Dacă bei din cea otrăvită mori instant pentru R1 și mori peste o zi pentru R2)
+
+R1: Căutare binară.
+R2: Dacă ar fi 8 sticle și trei străjeri se vor împărți în felul următor:
+1 este sticlă din care bea.
+Străjer 1: 01010101
+Străjer 2: 00110011
+Străjer 3: 00001111
+
+Dacă nu moare niciunul sticla este 1.
+Dacă moare primul, sticla este 2.
+Dacă moare al doilea, sticla este 3.
+Dacă mor primii doi, sticla este a 4-a.
+Dacă moare al treilea, sticla este a 5-a.
+Dacă mor primul și al treilea, sticla este a 6-a.
+Dacă mor ultimii doi, sticla este a șaptea.
+Daca mor toți, sticla este a 8-a.
+
+Gândirea este aceeași și pentru 1024 (respectiv 1000) de sticle.
