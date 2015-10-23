@@ -1,20 +1,20 @@
-Se dau douã camere, trei becuri cu incandescenþã ºi trei întrerupãtoare. 
+Se dau doua camere, trei becuri cu incandescenta si trei intrerupatoare. 
 
-Becurile se aflã într-o camerã, iar întrerupãtoarele în cealaltã camerã. 
+Becurile se afla intr-o camera, iar intrerupatoarele in cealalta camera. 
 
-Îþi vei petrece 5 minute în camera întrerupãtoarelor ºi apoi vei trece în camera becurilor.
+Iti vei petrece 5 minute in camera intrerupatoarelor si apoi vei trece in camera becurilor.
  
-Cele douã camere nu comunicã vizual ºi nu ai voie sã te mai întorci în camera întrerupãtoarelor.
+Cele doua camere nu comunica vizual si nu ai voie sa te mai intorci in camera intrerupatoarelor.
  
-Poþi apãsa întrerupãtoarele ori de câte ori doreºti ºi în ce ordine crezi de cuviinþã. 
+Poti apasa intrerupatoarele ori de cate ori doresti si in ce ordine crezi de cuviinta. 
 
-Problemã: Fiecãrui bec îi corespunde câte un întrerupãtor. Numeºte corect cele trei asocieri bec-întrerupãtor!
+Problema: Fiecarui bec ii corespunde cate un intrerupator. Numeste corect cele trei asocieri bec-intrerupator!
 
 
-Solutie: Un întrerupãtor nu va fi acþionat deloc. Acestuia îi va corespunde becul stins ºi rece.
+Solutie: Un intrerupator nu va fi actionat deloc. Acestuia ii va corespunde becul stins si rece.
 
-         Al doilea întrerupãtor va fi pus în poziþia "deschis". 
+         Al doilea intrerupator va fi pus in pozitia "deschis". 
 
-         În mod firesc, îi va corespunde becul aprins. Al treilea întrerupãtor va fi plasat în poziþia "deschis" pânã la limita celor cinci minute. Va fi închis înainte de trecerea în camera becurilor. Acesta va fi corespondentul becului stins ºi cald.
+         In mod firesc, ii va corespunde becul aprins. Al treilea intrerupator va fi plasat in pozitia "deschis" pana la limita celor cinci minute. Va fi închis inainte de trecerea in camera becurilor. Acesta va fi corespondentul becului stins si cald.
 
 
