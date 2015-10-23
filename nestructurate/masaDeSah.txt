@@ -1,0 +1,3 @@
+Ai o masă de șah de dimensiune 8x8 în care două colțuri opuse au fost tăiate (oricare două). Ți se dau 31 de dominouri și un domino poate acoperi exact două pătrate alăturate. Poți folosi toate cele 32 de dominouri să acoperi întreaga masă? Dovedește!
+
+R: Inițial, ai 32 de piese negre și 32 de piese albe pe tablă. Ștergând două, din colțuri opuse, vor rămâne 32 albe și 30 negre sau invers. Un domino poate acoperi o piesă albă și una neagră, așa că sigur vor rămâne 2 piese neocupate.
