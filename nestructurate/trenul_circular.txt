@@ -1,0 +1,5 @@
+Tocmai te-ai trezit in intuneric. Te ridici si gasesti un comutator, aprinzi lumina. Te afli intr-un compartiment lung si destul de ingust. Iti dai seama ca e un tren si incepi sa treci dintr-un vagon in altul. Unele au lumina stinsa, dar gasesti si vagoane cu lumina aprinsa. Usile laterale nu exista. Iti amintesti ca prin vis ce trebuie sa faci...trebuie sa numeri cate vagoane sunt in tren (este un tren circular, la un moment dat vei ajunge in vagonul initial, cel mai probabil fara sa-ti dai seama). Daca reusesti, se va deschide o usa si esti salvat/a. Cum numeri vagoanele?
+
+R: In vagonul 1 lumina ramane aprinsa. Te duci in vagonul 2, stingi lumina, te intorci 1 vagon, verifici daca lumina mai e aprinsa. Daca nu e, inseamna ca trenul are 2 vagoane. Daca este in coninuare aprinsa, te duci in vagonul 3, stingi lumina (daca e aprinsa), te intorci 2 vagoane, verifici, concluzionezi. Si tot asapana vei gasi lumina stinsa in vagonul 1.
+
+Sau: acelasi procedeu, insa o data mergi in fata, o data in spate. In unele cazuri e mai optima varianta asta. (desi tu nu ai de unde sa stii care varianta e cea mai buna cat te afli in tren)
