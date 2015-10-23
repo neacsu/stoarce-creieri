@@ -1,0 +1,20 @@
+Se dau doua camere, trei becuri cu incandescenta si trei intrerupatoare. 
+
+Becurile se afla intr-o camera, iar intrerupatoarele in cealalta camera. 
+
+Iti vei petrece 5 minute in camera intrerupatoarelor si apoi vei trece in camera becurilor.
+ 
+Cele doua camere nu comunica vizual si nu ai voie sa te mai intorci in camera intrerupatoarelor.
+ 
+Poti apasa intrerupatoarele ori de cate ori doresti si in ce ordine crezi de cuviinta. 
+
+Problema: Fiecarui bec ii corespunde cate un intrerupator. Numeste corect cele trei asocieri bec-intrerupator!
+
+
+Solutie: Un intrerupator nu va fi actionat deloc. Acestuia ii va corespunde becul stins si rece.
+
+         Al doilea intrerupator va fi pus in pozitia "deschis". 
+
+         In mod firesc, ii va corespunde becul aprins. Al treilea intrerupator va fi plasat in pozitia "deschis" pana la limita celor cinci minute. Va fi închis inainte de trecerea in camera becurilor. Acesta va fi corespondentul becului stins si cald.
+
+

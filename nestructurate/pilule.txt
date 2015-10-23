@@ -1,0 +1,21 @@
+Farmacistul îţi dă 5 flacoane pline cu pilule. Pilulele din fiecare flacon arată
+identic (dacă le ai amesteca, nu le-ai putea deosebi între ele). În 4 din cele 5
+flacoane se află pilule ce cântăresc 10 grame fiecare, iar în cel rămas pilule
+de 9 grame fiecare. Cum determini în care flacon se află pastilele mai uşoare,
+având la dispoziţie un cantar pe care îl poţi folosi o singură dată?
+
+
+Răspuns:
+Ia un număr diferit de pilule din fiecare flacon şi compară rezultatul pe
+care îl aştepţi cu cel observat. De exemplu:
+
+1 pilula din flaconul 1
+2 pilule din flaconul 2
+3 pilule din flaconul 3
+4 pilule din flaconul 4
+5 pilule din flaconul 5
+Dacă toate pilulele ar fi cântărit 10 grame, cântarul ar trebui să afişeze (1+2+3+4+5) * 10 = 150 grame.
+
+Presupunem că flaconul 4 ar conţine pilulele de 9 grame. Cântarul afiseaza (1+2+3+5) * 10 + 4*9 = 146 grame.
+Din moment ce masă reală este cu 4 grame mai mică decât cea aşteptată, flaconul cu numărul 4 conţine pilulele
+mai uşoare. 

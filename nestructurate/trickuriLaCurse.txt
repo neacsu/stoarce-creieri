@@ -1,0 +1,9 @@
+Participi într-o cursă.
+Îl depășești pe cel de pe locul al doilea. Pe ce loc te afli?
+
+R: Pe al doilea. (nu pe primul)
+
+Îl depășești pe cel de pe ultimul loc. Pe ce loc te afli?
+
+R: Nu îl poți depăși pe cel de pe ultimul loc.
+

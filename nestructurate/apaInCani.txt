@@ -1,0 +1,9 @@
+i o cană de 5 unități de măsură, una de 3 și apă nelimitată. Cum poți ajunge să ai exact 4 unități într-una din căni? (Nu poți umple decât în totalitate cănile)
+
+R: 5-0 : Umplem cana de 5.
+   2-3 : O vărsăm în cea de 3. 
+   2-0 : O golim pe cea de 3.
+   0-2 : O turnăm pe cea de 5 în cea de 3.
+   5-2 : O umplem pe cea de 5.
+   4-3 : O turnăm pe cea de 5 în cea de 3.
+   DONE! <3
