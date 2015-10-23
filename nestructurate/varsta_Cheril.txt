@@ -1,0 +1,33 @@
+Albert si Bernard tocmai au devenit prieteni cu Cheryl si vor sa stie cand e ziua de nastere a acesteia. Cheryl le da o lista cu zece date:
+
+    15 mai, 16 mai, 19 mai;
+    17 iunie, 18 iunie;
+    14 iulie, 16 iulie;
+    14 august, 15 august , 17 august.
+
+Cheryl le spune apoi separat lui Albert si Bernard luna, respectiv ziua nasterii ei (lui Albert, luna de nastere, iar lui Bernard, ziua de nastere).
+
+    Albert: Nu stiu data nasterii lui Cheryl, dar stiu ca nici Bernard nu o stie.
+    Bernard: La Inceput nu stiam data nasterii lui Cheryl, dar acum o stiu.
+    Albert: Atunci si eu stiu data nasterii ei.
+
+Cand s-a nascut Cheryl?
+
+
+Solutie:
+
+    Pasul 1
+
+In primul rand, trebuie sa ne dam seama ce stie Albert si Bernard nu. Cheryl le-a spus celor doi un numar de 10 date posibile, iar combinatiile sunt formate din patru luni si zilele cuprinse intre 14 si 19. Dintre acestea insa numai zilele de 18 si 19 apar o singura data in cele 10 variante. Daca Cheryl i-ar fi spus lui Bernard 18 sau 19, atunci el ar cunoaste ziua de nastere a lui Cheryl - 19 mai sau 18 iunie. Dar, Albert spune ca nu stie cand e ziua de nastere a lui Cheryl si ca nici nu Bernard nu stie.
+
+Drept urmare, daca Cheryl i-ar fi spus lui Albert ca ea s-a nascut fie in mai sau in iunie, ar fi fost posibil pentru Bernard sa stie cand este data ei de nastere (cu presupunerea ca lui i-ar fi spus 19 sau 18). Daca Bernard nu poate cunoaste data de nastere a lui Cheryl cu numai aceste informatii, atunci stim ca Cheryl i-a spus lui Albert ca s-a nascut in iulie sau august.
+
+    Pasul 2
+
+Dupa ce Albert spune prima propozitie, Bernard anunta ca el stie acum cand este ziua de nastere a lui Cheryl. In acest moment, Bernard a avut posibilitatea de a deduce lunile iulie sau august. Din aceasta serie de potentiale in aceste doua luni, doar ziua de 14 apare de doua ori. Pentru a afla ziua de nastere a lui Cheryl, lui Bernard trebuie sa-i fi fost spus un alt numar decat 14.
+
+    Pasul 3
+
+Albert anunta apoi ca el stie ziua de nastere a lui Cheryl, dupa ce a eliminat doua luni si numarul 14. Acest lucru il lasa cu trei date potentiale: 16 iulie, 15 august si 17 august. Daca Cheryl i-ar fi spus lui Albert august, atunci el tot nu ar cunoaste ziua - 15 sau 17. Cheryl trebuie sa-i fi spus lui Albert luna iulie, lasandu-l cu o singura posibila data pentru a sarbatori ziua de nastere a noului sau prieten: 16 iulie.
+
+
